@@ -11,7 +11,11 @@ Building [Ezra](https://tryezra.ai), an AI employee that lives in your company's
 
 **What I run on**
 
-Claude Code · Codex · gstack · superpowers · impeccable · last30days · Playwright MCP · Chrome DevTools MCP · Obsidian · cmux
+[Claude Code](https://github.com/anthropics/claude-code) · [Codex](https://github.com/openai/codex) · [gstack](https://github.com/garrytan/gstack) · [archify](https://github.com/tt-a1i/archify) · [cmux](https://github.com/manaflow-ai/cmux) · [Obsidian](https://obsidian.md)
+
+**What I'm playing with**
+
+[Paperclip](https://github.com/paperclipai/paperclip) · [diagram-design](https://github.com/cathrynlavery/diagram-design) · [Strix](https://github.com/usestrix/strix) · [Gas City](https://github.com/gastownhall/gascity) · [CodeCharta](https://github.com/MaibornWolff/codecharta)
 
 Everything I'm using, trying, and watching: [esegal.me/tooling](https://esegal.me/tooling)
 
